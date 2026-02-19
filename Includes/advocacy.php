@@ -43,7 +43,7 @@
 
             <div class="relative group order-1 lg:order-2" data-aos="zoom-in" data-aos-duration="1200">
                 <div class="relative rounded-[2.5rem] md:rounded-[4rem] overflow-hidden shadow-2xl aspect-[4/5] lg:aspect-square">
-                    <img src="../../PramodSir/Assets/Donation/donation1.png"
+                    <img src="../Assets/Donation/donation1.png"
                         alt="Pramod Thakkar Charity Work"
                         class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 scale-110 hover:scale-100">
 

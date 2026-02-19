@@ -16,17 +16,17 @@
 </head>
 
 <body>
-    <div class="main">
-        <?php include __DIR__ . '/../../includes/Layout/Header.php'; ?>
-        <?php include __DIR__ . '/../../includes/hero.php'; ?>
-        <?php include __DIR__ . '/../../includes/impact.php'; ?>
-        <?php include __DIR__ . '/../../includes/professional.php'; ?>
-        <?php include __DIR__ . '/../../includes/advocacy.php'; ?>
-        <?php include __DIR__ . '/../../includes/milestone.php'; ?>
-        <?php include __DIR__ . '/../../includes/entrepreneur.php'; ?>
-        <?php include __DIR__ . '/../../includes/vision.php'; ?>
-        <?php include __DIR__ . '/../../includes/Layout/Footer.php'; ?>
-    </div>
+  <div class="main">
+    <?php include __DIR__ . '/../Includes/Layout/Header.php'; ?>
+    <?php include __DIR__ . '/../Includes/hero.php'; ?>
+    <?php include __DIR__ . '/../Includes/impact.php'; ?>
+    <?php include __DIR__ . '/../Includes/professional.php'; ?>
+    <?php include __DIR__ . '/../Includes/advocacy.php'; ?>
+    <?php include __DIR__ . '/../Includes/milestone.php'; ?>
+    <?php include __DIR__ . '/../Includes/entrepreneur.php'; ?>
+    <?php include __DIR__ . '/../Includes/vision.php'; ?>
+    <?php include __DIR__ . '/../Includes/Layout/Footer.php'; ?>
+</div>
     <script>
         AOS.init({
             once: true,

@@ -50,7 +50,7 @@
 
         <div data-aos="zoom-in" data-aos-duration="1500" 
              class="relative w-full max-w-[320px] sm:max-w-[400px] lg:max-w-[450px] aspect-square lg:mr-24 rounded-[30px] md:rounded-[40px] overflow-hidden shadow-2xl border-4 md:border-8 border-white">
-            <img src="../Assets/Admins/Pramod Thakkar.jpg" 
+            <img src="/Assets/Admins/Pramod Thakkar.jpg" 
                  alt="Pramod Thakkar" 
                  class="w-full h-full object-cover grayscale-[20%] hover:grayscale-0 transition-all duration-1000 transform hover:scale-105">
             <div class="absolute inset-0 bg-gradient-to-t from-slate-900/40 to-transparent lg:hidden"></div>

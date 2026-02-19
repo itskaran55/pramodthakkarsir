@@ -1,3 +1,10 @@
+<?php
+// This creates a path starting from your website's root
+$root = (!empty($_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . '/';
+?>
+
+<img src="<?php echo $root; ?>Assets/Admins/Pramod-Thakkar.jpg" alt="Pramod">
+
 <!DOCTYPE html>
 <html lang="en">
 

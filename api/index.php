@@ -17,15 +17,15 @@
 
 <body>
     <div class="main">
-        <?php include __DIR__ . '/includes/Layout/Header.php'; ?>
-        <?php include __DIR__ . '/includes/hero.php'; ?>
-        <?php include __DIR__ . '/includes/impact.php'; ?>
-        <?php include __DIR__ . '/includes/professional.php'; ?>
-        <?php include __DIR__ . '/includes/advocacy.php'; ?>
-        <?php include __DIR__ . '/includes/milestone.php'; ?>
-        <?php include __DIR__ . '/includes/entrepreneur.php'; ?>
-        <?php include __DIR__ . '/includes/vision.php'; ?>
-        <?php include __DIR__ . '/includes/Layout/Footer.php'; ?>
+        <?php include __DIR__ . '../../includes/Layout/Header.php'; ?>
+        <?php include __DIR__ . '../../includes/hero.php'; ?>
+        <?php include __DIR__ . '../../includes/impact.php'; ?>
+        <?php include __DIR__ . '../../includes/professional.php'; ?>
+        <?php include __DIR__ . '../../includes/advocacy.php'; ?>
+        <?php include __DIR__ . '../../includes/milestone.php'; ?>
+        <?php include __DIR__ . '../../includes/entrepreneur.php'; ?>
+        <?php include __DIR__ . '../../includes/vision.php'; ?>
+        <?php include __DIR__ . '../../includes/Layout/Footer.php'; ?>
     </div>
     <script>
         AOS.init({

@@ -47,7 +47,7 @@
                 </p>
                 <div class="flex flex-col items-center">
                     <div class="w-16 h-16 md:w-20 md:h-20 rounded-full border-4 border-orange-500 p-1 mb-4">
-                        <img src="../PramodSir/Assets/Admins/Pramod Thakkar.jpg" alt="Pramod Thakkar" class="w-full h-full object-cover rounded-full">
+                        <img src="../../PramodSir/Assets/Admins/Pramod Thakkar.jpg" alt="Pramod Thakkar" class="w-full h-full object-cover rounded-full">
                     </div>
                     <h4 class="text-white text-sm md:text-base font-black uppercase tracking-widest">Pramod Shantilal Thakkar</h4>
                     <p class="text-orange-500 text-[10px] md:text-xs font-bold uppercase mt-1">Humanitarian | Entrepreneur | Leader</p>
